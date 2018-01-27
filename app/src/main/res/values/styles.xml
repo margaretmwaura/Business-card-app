@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">#8C8C8C</item>
+        <!-- Background color of buttons in the app -->
+        <!--This is new code which I added from the court counter application -->
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#795548</item>
+
+    </style>
+
+</resources>
